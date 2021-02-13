@@ -1,0 +1,8 @@
+TEMA:
+DETECTOR DE OBJETOS
+MATERIA:
+SEMINARIOS DE SISTEMAS
+NOMBRE:
+ERIC ALEXANDER NOEL ROMO
+GITHUB:
+https://github.com/ericnoel96/proyectoFinalSeminariosEricNoel
